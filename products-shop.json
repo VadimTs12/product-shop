@@ -3,105 +3,105 @@
     "id": 1,
     "title": "Notebook",
     "price": 2000,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/notebook.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/notebook.png",
     "quantity": 1
   },
   {
     "id": 2,
     "title": "Mouse",
     "price": 20,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/mouse.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/mouse.png",
     "quantity": 1
   },
   {
     "id": 3,
     "title": "Keyboard",
     "price": 200,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/keyboard.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/keyboard.png",
     "quantity": 1
   },
   {
     "id": 4,
     "title": "Gamepad",
     "price": 100,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/gamepad.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/gamepad.png",
     "quantity": 1
   },
     {
     "id": 5,
     "title": "Bluetooth",
     "price": 50,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/bluetooth.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/bluetooth.png",
     "quantity": 1
   },
     {
     "id": 6,
     "title": "Charging",
     "price": 50,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/charging.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/charging.png",
     "quantity": 1
   },
    {
     "id": 7,
     "title": "Headphones",
     "price": 150,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/headphones.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/headphones.png",
     "quantity": 1
   },
    {
     "id": 8,
     "title": "Loudspeakers",
     "price": 200,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/loudspeakers.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/loudspeakers.png",
     "quantity": 1
   },
    {
     "id": 9,
     "title": "Memory-card",
     "price": 10,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/memory-card.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/memory-card.png",
     "quantity": 1
   },
    {
     "id": 10,
     "title": "Monitor",
     "price": 400,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/monitor.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/monitor.png",
     "quantity": 1
   },
    {
     "id": 11,
     "title": "Photo",
     "price": 550,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/photo.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/photo.png",
     "quantity": 1
   },
      {
     "id": 12,
     "title": "SSD-card",
     "price": 320,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/ssd-card.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/ssd-card.png",
     "quantity": 1
   },
    {
     "id": 13,
     "title": "Table",
     "price": 800,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/table.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/table.png",
     "quantity": 1
   },
   {
     "id": 14,
     "title": "USB-cable",
     "price": 15,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/usb-cable.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/usb-cable.png",
     "quantity": 1
   },
    {
     "id": 14,
     "title": " WIFI-signal",
     "price": 80,
-    "img": "https://raw.githubusercontent.com/VadimTs12/API-products/master/img/wifi-signal.png",
+    "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/wifi-signal.png",
     "quantity": 1
   }
  
