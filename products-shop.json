@@ -1,106 +1,106 @@
 [
   {
     "id": 1,
-    "title": "Notebook",
-    "price": 2000,
+    "title": "Футболка классического кроя",
+    "price": 999,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/2368901106_1_1_3.jpg",
     "quantity": 1
   },
   {
     "id": 2,
-    "title": "Mouse",
-    "price": 20,
+    "title": "Эластичная футболка",
+    "price": 899,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/2374130800_1_1_3.jpg",
     "quantity": 1
   },
   {
     "id": 3,
-    "title": "Keyboard",
-    "price": 200,
+    "title": "Футболка с длинными рукавами и карманом",
+    "price": 800,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/2730538537_1_1_3.jpg",
     "quantity": 1
   },
   {
     "id": 4,
-    "title": "Gamepad",
-    "price": 100,
+    "title": "Плотная рубашка в клетку с большими карманами",
+    "price": 1299,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/3876310710_1_1_3.jpg",
     "quantity": 1
   },
     {
     "id": 5,
-    "title": "Bluetooth",
-    "price": 50,
+    "title": "Плотная рубашка в клетку с карманами",
+    "price": 2500,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/6309019712_1_1_3.jpg",
     "quantity": 1
   },
     {
     "id": 6,
-    "title": "Charging",
-    "price": 50,
+    "title": "Двухцветная куртка-рубашка оверсайз в клетку",
+    "price": 2100,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/6310335060_1_1_3.jpg",
     "quantity": 1
   },
    {
     "id": 7,
-    "title": "Headphones",
-    "price": 150,
+    "title": "Куртка-рубашка в клетку",
+    "price": 3499,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/6318665505_1_1_3.jpg",
     "quantity": 1
   },
    {
     "id": 8,
-    "title": "Loudspeakers",
-    "price": 200,
+    "title": "Куртка из искусственной кожи",
+    "price": 3099,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/6666109712_1_1_3.jpg",
     "quantity": 1
   },
    {
     "id": 9,
-    "title": "Memory-card",
-    "price": 10,
+    "title": "Куртка рубашечного кроя в клетку",
+    "price": 4900,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/6668310800_1_1_3.jpg",
     "quantity": 1
   },
    {
     "id": 10,
-    "title": "Monitor",
-    "price": 400,
+    "title": "Куртка из драпа в клетку",
+    "price": 4000,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/6685311800_1_1_3.jpg",
     "quantity": 1
   },
    {
     "id": 11,
-    "title": "Photo",
-    "price": 550,
+    "title": "Стеганая куртка с принтом «Бандана»",
+    "price": 5500,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/6689644400_1_1_3.jpg",
     "quantity": 1
   },
      {
     "id": 12,
-    "title": "SSD-card",
-    "price": 320,
+    "title": "Длинный пуховик",
+    "price": 3200,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/6853647800_1_1_3.jpg",
     "quantity": 1
   },
    {
     "id": 13,
-    "title": "Table",
+    "title": "Худи с контрастным принтом",
     "price": 800,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/7278127806_1_1_3.jpg",
     "quantity": 1
   },
   {
     "id": 14,
-    "title": "USB-cable",
-    "price": 15,
+    "title": "Жилет из пике с капюшоном и передним карманом",
+    "price": 1500,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/7327478800_1_1_3.jpg",
     "quantity": 1
   },
    {
     "id": 15,
-    "title": " WIFI-signal",
-    "price": 80,
+    "title": " Худи NFL классического кроя с принтом",
+    "price": 2010,
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/7375210600_1_1_3.jpg",
     "quantity": 1
   }
