@@ -15,8 +15,13 @@
   },
   {
     "id": 3,
+<<<<<<< HEAD
     "title": "Футболка с длинными рукавами и карманом",
     "price": 800,
+=======
+    "title": "Keyboard",
+    "price": 200,
+>>>>>>> 014204b5f703068de9b875c58a5b675da659eea5
     "img": "https://raw.githubusercontent.com/VadimTs12/product-shop/master/img/2730538537_1_1_3.jpg",
     "quantity": 1
   },
